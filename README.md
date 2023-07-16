@@ -5,3 +5,4 @@ This repository contains projects that I put into practice what I learned during
 ## Projects
 
 - [x] Pythagorean Triples Calculator
+- [x] Concatenate Strings
