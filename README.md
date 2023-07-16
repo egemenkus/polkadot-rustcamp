@@ -4,4 +4,4 @@ This repository contains projects that I put into practice what I learned during
 
 ## Projects
 
-- [ ] Pythagorean Triples Calculator
+- [x] Pythagorean Triples Calculator
