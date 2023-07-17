@@ -6,3 +6,4 @@ This repository contains projects that I put into practice what I learned during
 
 - [x] Pythagorean Triples Calculator
 - [x] Concatenate Strings
+- [x] Calculator 
