@@ -5,3 +5,4 @@ edition = "2021"
 authors = ["Egemen Utku Kuş <egemen@blockchaindeu.com>"]
 
 [dependencies]
+approx = "0.4.0"
